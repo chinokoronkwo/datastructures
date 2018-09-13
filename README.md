@@ -13,15 +13,15 @@ A collection of abstract data structures which are non-native to most programmin
 <details>
 <summary>Click to expand</summary>
 
-[Getting Started](#getting-started)
-[Generic Graph](#generic-graph)
+- [Getting Started](#getting-started)
+- [Generic Graph](#generic-graph)
 </details>
 
 ## Getting Started
 This documentation is intended to serve as a brief explaination of the implementation used for each data structure.  Each implementation language is indicated by the name of the parent folder that the code has been placed in.
 
 ## Generic Graph
-The graph has been implemented as a collection of three classes:
+The generic graph has been implemented as a composition of the following 3 classes:
 1. [Graph](#graph)
 2. [Permutations](#permutations)
 3. [Algorithms](#algorithmsa)
