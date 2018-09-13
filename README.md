@@ -1,11 +1,3 @@
----
-Title:    Data Structures Repository
-Author:   Chinwendu (Chin) Okoronkwo  
-Date:     September 12, 2018  
-Comment:  A collection of abstract  
-          data structures which are non-native  
-          to most programming languages.
----
 # Data Structures
 A collection of abstract data structures which are non-native to most programming languages.
 
